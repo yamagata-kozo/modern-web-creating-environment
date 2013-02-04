@@ -1,0 +1,26 @@
+{
+  "name": "SITE_NAME",
+  "tree": [
+    "index.html",
+    {
+      "foo": [
+        "bar.html"
+      ]
+    },
+    {
+      "admin": [
+        "index.html"
+      ]
+    },
+    {
+      "stylesheets": [
+        "main.css"
+      ]
+    },
+    {
+      "javascripts": [
+        "hoge.js"
+      ]
+    }
+  ]
+}
